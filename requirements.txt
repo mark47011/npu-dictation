@@ -1,0 +1,16 @@
+# NpuDictation 依赖（Python 3.10+，实测 3.12）
+# 安装: pip install -r requirements.txt
+openvino>=2024.5
+openvino-genai>=2024.5
+kaldi-native-fbank
+pynput
+sounddevice
+pystray
+pillow
+numpy
+
+# 开发对照模型（paraformer-cpu / smoke_test 需要）
+sherpa-onnx
+
+# 测试
+pytest

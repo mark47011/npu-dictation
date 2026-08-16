@@ -1,0 +1,10 @@
+# 跨平台行尾统一（公开仓库用）
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.wav binary
+*.bin binary

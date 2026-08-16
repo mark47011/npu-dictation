@@ -1,0 +1,1 @@
+{"model": "sense-voice-npu", "hotkey": "mouse.middle", "type_delay": 0.006, "beep": true, "max_seconds": 60, "min_seconds": 0.3, "live_interval": 0.6, "input_device": null}

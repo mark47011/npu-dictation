@@ -1,0 +1,24 @@
+﻿# 运行产物
+__pycache__/
+*.pyc
+.pytest_cache/
+dictation.log
+dictation_err.log
+ov_cache/
+
+# 模型 (1.1GB, 不入库, 见 README 获取方式)
+models/
+
+# 发布产物
+dist*/
+build/
+*.zip
+zip_result.txt
+
+# 内部文档 (含本地路径/会话信息, 不随开源)
+开发记录-完整路线.md
+
+# 开发辅助
+启动听写-开发.cmd
+
+
